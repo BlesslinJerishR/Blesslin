@@ -7,7 +7,7 @@ range: 'March - May 2022'
 url: 'https://onsepro.com/'
 ---
 
-- Coded the company landing page
+- Coded the company's landing page
 
 - Researched & Marketed an POS Billing software
 
