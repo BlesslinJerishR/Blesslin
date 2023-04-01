@@ -176,7 +176,7 @@ const About = () => {
               <a href="https://onsepro.com/">a start-up</a> and{' '}
               <a href="https://www.microverse.org/">a remote coding school</a>. My main focus these
               days is building accessible, inclusive projects and Full-Stack Web Applications at{' '}
-              <a href="https://upstatement.com/">Microverse</a>.
+              <a href="https://www.microverse.org/">Microverse</a>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently :</p>
