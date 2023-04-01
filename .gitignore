@@ -9,3 +9,6 @@ package-lock.json
 .DS_Store
 
 .vscode/
+
+# Future upgradation of the portfolio
+Future

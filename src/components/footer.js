@@ -106,10 +106,12 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/BlesslinJerishR/">
-          <div>Designed &amp; Built by Blesslin Jerish R</div>
+          <div>{/*Designed &amp;*/}Built by Blesslin Jerish R</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
+          {githubInfo.stars &&
+            githubInfo.forks &&
+            {
+              /* <div className="github-stats">
               <span>
                 <Icon name="Star" />
                 <span>{githubInfo.stars.toLocaleString()}</span>
@@ -118,8 +120,8 @@ const Footer = () => {
                 <Icon name="Fork" />
                 <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
-            </div>
-          )}
+            </div> */
+            }}
         </a>
       </StyledCredit>
     </StyledFooter>

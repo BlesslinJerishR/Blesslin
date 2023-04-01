@@ -9,8 +9,8 @@ url: 'https://www.ecanarys.com/'
 
 - Worked with a team of developers at training phase
 
-- Worked with Microsoft Teams
+- Worked using Microsoft Teams and powerful Microsoft Apps
 
 - Trained to develop projects using C# and .NET
 
-- Learned about Azure Cloud ranging from Azure Functions to Azure Api Management
+- Trained in Azure Cloud technologies ranging from Azure Functions to Azure Api Management
