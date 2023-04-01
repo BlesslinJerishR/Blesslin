@@ -1,7 +1,7 @@
 ---
 date: '2017-12-21'
 title: 'Software Developer'
-company: 'Zoho Schools'
+company: 'Zoho'
 location: 'Tamilnadu, India'
 range: 'April - February 2021'
 url: 'https://www.zohoschools.com/'

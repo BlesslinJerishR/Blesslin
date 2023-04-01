@@ -1,7 +1,7 @@
 ---
 date: '2018-04-01'
 title: 'Software Engineer'
-company: 'Canarys Automation'
+company: 'Canarys Automations'
 location: 'Bangalore, India'
 range: 'December - February 2022'
 url: 'https://www.ecanarys.com/'
